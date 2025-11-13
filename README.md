@@ -139,7 +139,7 @@ Detect whether code snippets were written by:
 **Recommended: Use our setup script (creates isolated environment)**
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/athiri/semeval26-task13/
 cd semeval_task13_complete
 
 # Run automated setup (creates virtual environment with pinned versions)
